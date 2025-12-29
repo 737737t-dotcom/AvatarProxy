@@ -1,2 +1,0 @@
-[32m INFO[0m [2mavataria_proxy::proxy[0m[2m:[0m Proxy listening on 0.0.0.0:8123
-[32m INFO[0m [2mavataria_proxy::proxy[0m[2m:[0m Forwarding to game-server-01.prod.ava.101xp.com:8123
